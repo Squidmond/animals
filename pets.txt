@@ -2,3 +2,5 @@ Daisy
 Moe
 Tigger
 Munchie
+Kitty
+BooBoo
